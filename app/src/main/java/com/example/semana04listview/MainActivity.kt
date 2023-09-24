@@ -30,6 +30,7 @@ class MainActivity : AppCompatActivity() {
                     applicationContext,
                     "Position: $position",
                     Toast.LENGTH_SHORT).show()
+            //Fiorella Pizarro2
         }
 
     }
